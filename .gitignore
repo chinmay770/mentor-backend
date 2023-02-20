@@ -1,0 +1,5 @@
+node_modules
+.env
+scripts
+appspec.yml
+package-lock.json
